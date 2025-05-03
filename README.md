@@ -1,2 +1,2 @@
 # MLApps
-Machine learning Apps
+Machine learning training
